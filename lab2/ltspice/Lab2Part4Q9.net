@@ -1,0 +1,19 @@
+* C:\School Work\ECED3201\lab2\ltspice\Lab2Part4Q9.asc
+V1 VDD 0 15
+V2 0 VSS 15
+XU1 VIN VOUT VDD VSS N002 level2 Avol=1Meg GBW=10Meg Slew=10Meg Ilimit=25m Rail=0 Vos=0 En=0 Enk=0 In=0 Ink=0 Rin=500Meg
+D1 N002 VOUT 1N4148
+R1 0 VOUT 10k
+XU2 VIN VOUT2 VDD VSS N003 level2 Avol=1Meg GBW=10Meg Slew=10Meg Ilimit=25m Rail=0 Vos=0 En=0 Enk=0 In=0 Ink=0 Rin=500Meg
+D2 VOUT2 N003 1N4148
+R2 VOUT2 N001 10k
+XU3 VOUT N001 VDD VSS VOUT3 level2 Avol=1Meg GBW=10Meg Slew=10Meg Ilimit=25m Rail=0 Vos=0 En=0 Enk=0 In=0 Ink=0 Rin=500Meg
+R3 N001 VOUT3 10k
+V3 VIN 0 SINE(0 2 60)
+.model D D
+.lib C:\Users\Ashton Dudley\AppData\Local\LTspice\lib\cmp\standard.dio
+* .tran 60m
+.dc V3 -1 1 0.1
+.lib UniversalOpAmp2.lib
+.backanno
+.end
