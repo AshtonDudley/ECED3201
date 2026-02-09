@@ -1,0 +1,11 @@
+* C:\Users\lorne\Documents\3rd Year Dal\ECED3201\Labs\lab2\ltspice\Lab2Part1.asc
+V1 N001 0 12V
+I1 N001 V_d 10m
+D1 V_d 0 1N4148
+.model D D
+.lib C:\Users\lorne\AppData\Local\LTspice\lib\cmp\standard.dio
+.step temp 0 20 1
+.op
+* .tran 10m
+.backanno
+.end

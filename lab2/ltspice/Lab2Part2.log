@@ -1,0 +1,404 @@
+LTspice 24.0.12 for Windows
+Circuit: * C:\Users\lorne\Documents\3rd Year Dal\ECED3201\Labs\lab2\ltspice\Lab2Part2.asc
+Start Time: Mon Feb  9 09:52:07 2026
+solver = Normal
+Maximum thread count: 8
+
+
+
+Direct Newton iteration for .op point succeeded.
+.step rl=200
+
+
+
+.step rl=300
+
+
+
+.step rl=400
+
+
+
+.step rl=500
+
+
+
+.step rl=600
+
+
+
+.step rl=700
+
+
+
+.step rl=800
+
+
+
+.step rl=900
+
+
+
+.step rl=1000
+
+
+
+.step rl=1100
+
+
+
+.step rl=1200
+
+
+
+.step rl=1300
+
+
+
+.step rl=1400
+
+
+
+.step rl=1500
+
+
+
+.step rl=1600
+
+
+
+.step rl=1700
+
+
+
+.step rl=1800
+
+
+
+.step rl=1900
+
+
+
+.step rl=2000
+
+
+
+.step rl=2100
+
+
+
+.step rl=2200
+
+
+
+.step rl=2300
+
+
+
+.step rl=2400
+
+
+
+.step rl=2500
+
+
+
+.step rl=2600
+
+
+
+.step rl=2700
+
+
+
+.step rl=2800
+
+
+
+.step rl=2900
+
+
+
+.step rl=3000
+
+
+
+.step rl=3100
+
+
+
+.step rl=3200
+
+
+
+.step rl=3300
+
+
+
+.step rl=3400
+
+
+
+.step rl=3500
+
+
+
+.step rl=3600
+
+
+
+.step rl=3700
+
+
+
+.step rl=3800
+
+
+
+.step rl=3900
+
+
+
+.step rl=4000
+
+
+
+.step rl=4100
+
+
+
+.step rl=4200
+
+
+
+.step rl=4300
+
+
+
+.step rl=4400
+
+
+
+.step rl=4500
+
+
+
+.step rl=4600
+
+
+
+.step rl=4700
+
+
+
+.step rl=4800
+
+
+
+.step rl=4900
+
+
+
+.step rl=5000
+
+
+
+.step rl=5100
+
+
+
+.step rl=5200
+
+
+
+.step rl=5300
+
+
+
+.step rl=5400
+
+
+
+.step rl=5500
+
+
+
+.step rl=5600
+
+
+
+.step rl=5700
+
+
+
+.step rl=5800
+
+
+
+.step rl=5900
+
+
+
+.step rl=6000
+
+
+
+.step rl=6100
+
+
+
+.step rl=6200
+
+
+
+.step rl=6300
+
+
+
+.step rl=6400
+
+
+
+.step rl=6500
+
+
+
+.step rl=6600
+
+
+
+.step rl=6700
+
+
+
+.step rl=6800
+
+
+
+.step rl=6900
+
+
+
+.step rl=7000
+
+
+
+.step rl=7100
+
+
+
+.step rl=7200
+
+
+
+.step rl=7300
+
+
+
+.step rl=7400
+
+
+
+.step rl=7500
+
+
+
+.step rl=7600
+
+
+
+.step rl=7700
+
+
+
+.step rl=7800
+
+
+
+.step rl=7900
+
+
+
+.step rl=8000
+
+
+
+.step rl=8100
+
+
+
+.step rl=8200
+
+
+
+.step rl=8300
+
+
+
+.step rl=8400
+
+
+
+.step rl=8500
+
+
+
+.step rl=8600
+
+
+
+.step rl=8700
+
+
+
+.step rl=8800
+
+
+
+.step rl=8900
+
+
+
+.step rl=9000
+
+
+
+.step rl=9100
+
+
+
+.step rl=9200
+
+
+
+.step rl=9300
+
+
+
+.step rl=9400
+
+
+
+.step rl=9500
+
+
+
+.step rl=9600
+
+
+
+.step rl=9700
+
+
+
+.step rl=9800
+
+
+
+.step rl=9900
+tnom = 27
+temp = 27
+method = modified trap
+.step rl=10000
+Total elapsed time: 5.501 seconds.
+
