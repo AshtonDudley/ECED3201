@@ -1,0 +1,189 @@
+{
+  "main": {
+    "id": "a5408194e2365303",
+    "type": "split",
+    "children": [
+      {
+        "id": "b2ff81a72c042a15",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3a202d390b34642d",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "lab2/ECED3201 - Lab 2.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "ECED3201 - Lab 2"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "27696e8915df8707",
+    "type": "split",
+    "children": [
+      {
+        "id": "e3c1d31d8d4f2511",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4a1c5eef03d3a8ef",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "9799bc9bff385d94",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "0d4fd71646127878",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "849b8df314749f25",
+    "type": "split",
+    "children": [
+      {
+        "id": "4a89f8cf4bc5f30c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e1e93d0614e1a17a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "lab2/ECED3201 - Lab 2.pdf",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for ECED3201 - Lab 2"
+            }
+          },
+          {
+            "id": "e0d7b35de4f8849d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "lab2/ECED3201 - Lab 2.pdf",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from ECED3201 - Lab 2"
+            }
+          },
+          {
+            "id": "b1c40d78e8c8e490",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "68ee7552e71905f6",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "1fb926fb4fc7c4b7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "lab2/ECED3201 - Lab 2.pdf",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of ECED3201 - Lab 2"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "4a1c5eef03d3a8ef",
+  "lastOpenFiles": [
+    "lab2/notes/Lab 2 Notes.md",
+    "lab2/ECED3201 - Lab 2.pdf"
+  ]
+}
