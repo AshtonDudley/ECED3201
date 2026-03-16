@@ -1,6 +1,6 @@
 LTspice 24.0.9 for Windows
 Circuit: * C:\School Work\ECED3201\ltspice\lab1part4.asc
-Start Time: Mon Jan 26 13:07:59 2026
+Start Time: Sun Feb  8 13:59:16 2026
 solver = Normal
 Maximum thread count: 16
 tnom = 27
@@ -14,5 +14,5 @@ WARNING: Less than two connections to node nc_01.  This node is used by c1.
 WARNING: Less than two connections to node nc_02.  This node is used by c1.
 v1: Missing value, assumed 0V @ DC
 .OP point found by inspection.
-Total elapsed time: 0.032 seconds.
+Total elapsed time: 0.038 seconds.
 
